@@ -1,1 +1,1 @@
-this particular repository is for having multiple common scripts
+this particular repository is for having multiple common scripts.
