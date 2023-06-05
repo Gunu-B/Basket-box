@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 NUM=$1
 if [`expr $NUM %2` -eq 0]
@@ -7,4 +7,5 @@ then
 else
 	echo "NUM is odd"
 if
+
 
