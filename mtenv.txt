@@ -1,0 +1,4 @@
+NAME=AVD
+PASSWORD=gunu@1234
+Email=hanuman@i
+Address: nicopark

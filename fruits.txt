@@ -6,3 +6,5 @@ Litchy
 Banana
 Mango
 Cuconut
+jackfruit
+guava
