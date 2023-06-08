@@ -6,10 +6,9 @@ Litchy
 Banana
 Mango
 Cuconut
-<<<<<<< HEAD
 guava
 jackfruit
-=======
 jackfruit
 guava
->>>>>>> dev
+hari
+rama
