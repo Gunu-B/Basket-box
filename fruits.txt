@@ -10,5 +10,6 @@ guava
 jackfruit
 jackfruit
 guava
-hari
-rama
+bigfruit
+painapple
+red apple
