@@ -7,5 +7,5 @@ then
 else
 	echo "NUM is odd"
 if
-#all over
+
 
