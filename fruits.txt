@@ -12,4 +12,3 @@ jackfruit
 guava
 bigfruit
 painapple
-red apple
